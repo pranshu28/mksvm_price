@@ -65,7 +65,7 @@ write.table(l_rate, file="Cleaned.csv",row.names=FALSE, col.names=FALSE, sep=","
 #sorted<-c()
 #w_sum<-c()
 clean_comm<-c()
-for(i in c(1:33)) {w_sum<-c(w_sum,0)}
+#for(i in c(1:33)) {w_sum<-c(w_sum,0)}
 for(i in c(1:797)) {
   #print(i)
   row<-mymat[i]
