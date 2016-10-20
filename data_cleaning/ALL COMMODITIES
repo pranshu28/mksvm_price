@@ -1,0 +1,797 @@
+ALL COMMODITIES
+I PRIMARY ARTICLES
+	(A) FOOD ARTICLES
+		a. FOOD GRAINS(CEREALS+PULSES)
+			a1. CEREALS
+				Rice
+				Wheat
+				Jowar
+				Bajra
+				Maize
+				Barley
+				Ragi
+			a2. PULSES
+				Gram
+				Arhar
+				Moong
+				Masur
+				Urad
+		b. FRUITS & VEGETABLES
+			b1. VEGETABLES
+				Potato
+				Sweet Potato
+				Onion
+				Tapioca
+				Ginger(Fresh)
+				Peas(Green)
+				Tomato
+				Cauliflower
+				Brinjal
+				Okra (Lady finger)
+				Cabbage
+			b2. FRUITS
+				Banana
+				Mango
+				Apple
+				Orange
+				Cashew nut
+				Coconut(Fresh)
+				Papaya
+				Grapes
+				Pineapple
+				Guava
+				Litchi
+				Lemon
+				Sapota
+		c. MILK
+			Milk
+		d. EGGS,MEAT & FISH
+			Egg
+			Fish-Inland
+			Fish-Marine
+			Mutton
+			Beef & Buffalo Meat
+			Poultry Chicken
+			Pork
+		e. CONDIMENTS & SPICES
+			Black Pepper
+			Chillies(Dry)
+			Turmeric
+			Cardamom
+			Ginger(Dry)
+			Betelnut/Arecanut
+			Cummin
+			Garlic
+			Corriander
+		f. OTHER FOOD ARTICLES
+			Tea
+			Coffee
+	(B) NON-FOOD ARTICLES
+		a. FIBRES
+			Raw Cotton
+			Raw Jute
+			Mesta
+			Raw Wool
+			Raw Silk
+			Coir Fibre
+		b. OIL SEEDS
+			Groundnut Seed
+			Rape & Mustard Seed
+			Cotton Seed
+			Copra (Coconut)
+			Gingelly Seed (Sesamum)
+			Linseed
+			Castor Seed
+			Niger Seed
+			Safflower (Kardi Seed)
+			Sunflower
+			Soyabean
+		c. OTHER NON-FOOD ARTICLES
+			Hides(Raw)
+			Skins(Raw)
+			Tanning Materials
+			Sugarcane
+			Tobacco
+			Gaur Seed
+			Raw Rubber
+			Logs & Timber
+			Fodder
+		d. FLORICULTURE
+			Rose
+			Jasmine
+			Marigold
+	(C) MINERALS
+		a. METALLIC MINERALS
+			Bauxite
+			Chromite
+			Copper Ore
+			Zinc Concentrate
+			Manganese Ore
+			Iron Ore
+		b. OTHER MINERALS
+			Phosphorite
+			Fireclay
+			Gypsum
+			Kaolin
+			Dolomite
+			Magnesite
+			Barytes
+			Limestone
+			Steatite
+			Graphite
+			Sillimanite
+		c. CRUDE PETROLEUM
+			Crude Petroleum
+II FUEL & POWER
+	A. COAL
+		Coking Coal
+		Non-Coking Coal
+		Coke
+		Lignite
+	B. MINERAL OILS
+		LPG
+		Petrol
+		Kerosene
+		Aviation Turbine Fuel
+		High Speed Diesel
+		Naphtha
+		Light Diesel Oil
+		Bitumen
+		Furnace Oil
+		Lubricants
+	C. ELECTRICITY
+		Electricity ( Domestic)
+		Electricity (Commercial)
+		Electricity (Agricultural)
+		Electricity (Railway Traction)
+		Electricity (Industry)
+III MANUFACTURED PRODUCTS
+	(A) FOOD PRODUCTS
+		a. DAIRY PRODUCTS
+			Powder Milk
+			Ghee
+			Butter
+			Ice Cream
+			Condensed Milk
+		b. CANNING, PRESERVING & PROCESSING OF FOOD
+			Canned Fish
+			Fish Meal
+			Processed Prawn
+			Canned Meat
+			Vegetables Seeds
+		c. GRAIN MILL PRODUCTS
+			Maida
+			Wheat Flour ( Atta)
+			Gram Powder (Besan)
+			Sooji ( Rawa )
+			Rice Bran
+			Wheat Bran
+			Beaten Rice Flakes (Chire)
+			Maize Atta
+			Other Grain Mill Products
+		d. BAKERY PRODUCTS
+			Biscuit / Cookies
+			Bread & Buns
+			Cakes & Muffins
+		e. SUGAR, KHANDSARI & GUR
+			Sugar
+			Gur
+			Khandsari
+			Molasses
+			Bagasse
+			Sugar Confectionary
+		f. EDIBLE OILS
+			Vanaspati
+			Groundnut Oil
+			Palm Oil
+			Rice Bran Oil
+			Cotton Seed Oil
+			Mustard & Rapeseed Oil
+			Soyabean Oil
+			Copra Oil
+			Sunflower Oil
+			Gingelly Oil
+		g. OIL CAKES
+			Cotton Seed Oil Cake
+			Rice Bran Extraction
+			Mustard Oil Cake
+			Groundnut Oil Cake
+			Other Oil Cakes
+		h. TEA & COFFEE PROCCESSING
+			Tea Leaf (Blended)
+			Tea Leaf (Unblended)
+			Tea Dust (Blended)
+			Tea Dust (Unblended)
+			Coffee Powder
+		i. MANUFACTURE OF SALT
+			Salt
+		j. OTHER FOOD PRODUCTS
+			Cashew Kernel
+			Gola (Cattle Feed)
+			Papad
+			Cashew nut (Roasted)
+			Mixed Spices
+			Pickles
+			Soya Preparations (Excluding Oil)
+			Readymade / Instant Food Powder
+	(B) BEVERAGES, TOBACCO & TOBACCO PRODUCTS
+		a. WINE INDUSTRIES
+			IMFL - Blended
+			IMFL - Malted but not Blended
+			Rectified Spirit
+		b. MALT LIQUOR
+			Beer
+			Toddy (or Taddy)
+		c. SOFT DRINKS & CARBONATED WATER
+			Soda Based Soft Drinks
+			Soft Drink Concentrates
+			Aerated Water (All Types)
+			Non-Alcoholic Beverages (All Types)
+			Mineral Water
+		d. MANUFACTURE OF BIDI,CIGARETTES,TOBACCO & ZARDA
+			Cigarette
+			Bidi
+			Dried Tobacco
+			Chewing Tobacco (scented or not )
+			Zarda
+	(C ) TEXTILES
+		a. COTTON TEXTILES
+			a1. COTTON YARN
+				Cotton Yarn (Unbleached)
+				Cotton Yarn (Bleached)
+				Cotton Yarn (Dyed)
+				Fnished / processed cotton yarn (not knitted)
+				Finished / processed cotton yarn (knitted)
+			a2. COTTON FABRIC
+				Cotton Cloth finished /processed
+				Grey Cloth (Bleached / Unbleached)
+				Cotton Textiles Dyed/printed
+				Bed Cover & Bed Sheet
+				Other Cotton Hosiery Goods
+				Cotton Linters
+				Cotton Shirting
+				Cotton Trousers / Pants
+				Cotton Towel Cloth
+				Cotton Durries
+				Furnishing cloth
+		b. MAN MADE TEXTILES
+			b1. MAN MADE FIBRE
+				Polyester Yarn
+				Texturised and Twisted Yarn
+				Polyester Staple Fibre
+				Synthetic Yarn
+				Viscose Staple Fibre
+				Acrylic Fibre
+				Acrylic Yarn
+				Nylon Yarn
+				Viscose Yarn
+				Synthetic Fibres
+			b2. MAN MADE FABRIC
+				Mixed Fabrics
+				Cotton Knitted Fabrics
+				Synthetic Suitings (incl.blended)
+				Synthetic Grey Cloth
+				Nylon Thread
+				Polyethlene Fabrics
+				Other Synthetic Fabrics
+		c. WOOLLEN TEXTILES
+			Woollen Yarn
+			Woollen Carpets
+			Woollen Shawls
+			Woollen Hosiery goods
+			Woollen Cloth
+			Woollen Cardigans/Sweaters
+			Blankets
+			Other Woollen Garments
+		d. JUTE HEMP & MESTA TEXTILES
+			Jute Sacking Cloth
+			Jute Sacking Bag
+			Tyre Cord Fabric
+			Jute Yarn
+			Gunny and Hessian Cloth
+		e. OTHER MISC. TEXTILES
+			Cotton Shirts
+			Terene Garments
+			Cotton Children suits
+			Terry Towel
+			Gunny bags (Non Laminated)
+			Coir Mats & Matting
+			Cotton Under Garments
+			Cotton Pillow Cover
+			Cotton Dressing Gown
+	(D) WOOD & WOOD PRODUCTS
+		a. TIMBER / WOODEN PLANKS
+			Sawn/ResawnTimber/Wooden Planks
+			Sawn Timber Posts / Squares
+		b. PROCESSED WOOD
+			Processed/ Sized Wood Cutting
+			Wooden Almirah / Cabinets/ Cupboard
+			Wooden Crates & Packing Box
+			Wooden Chair
+		c. PLYWOOD & FIBRE BOARD
+			Plywood Board
+			Insulation Board
+		d. OTHERS
+			Veneered Particle Board
+			Veneer Wood
+	(E) PAPER & PAPER PRODUCTS
+		a. PAPER & PULP
+			Printing and Writing Paper
+			Kraft Paper & Bags
+			Newsprint
+			Laminated Paper
+			Paper for Printing / Poster
+			Maplitho Paper
+			Computer Stationery
+			Paper Rolls
+			Paper Cone & Tube
+			Cream Laid woven Paper
+			Paper Pulp
+		b. MANUFACTURE OF BOARDS
+			Corrugated Sheet Boxes
+			Paper Cartons / boxes
+			Bristle Paper Board
+			Card Board
+		c. PRINTING & PUBLISHING
+			Books/ Periodicals/ Journals
+			Newspaper
+			Other Printing and Publishing
+	(F) LEATHER & LEATHER PRODUCTS
+		a. LEATHERS
+			Vegetable Tanned Leather
+			Crome Tanned Leather
+			Leather Shoe lining
+		b. LEATHER FOOTWEAR
+			Leather Shoe Upper
+			Foot Wear/ Safety Boot
+			Leather Chappals/ sandals
+			Leather Sole
+			Other Leather Foot Wear
+		c. OTHER LEATHER PRODUCTS
+			Leather Garments & Jackets
+			Leather Bags
+			Leather Handbags / Wallets
+			Leather Gloves
+			Leather Harness Goods
+	(G) RUBBER & PLASTIC PRODUCTS
+		a. TYRES & TUBES
+			a1. TYRES
+				Cab/Car Tyre
+				Bus/truck Tyre
+				Scooter / Motor cycle Tyre
+				Tractor Tyre
+				Cycle /Cycle rickshaw Tyre
+			a2. TUBES
+				Cycle / Rickshaw Tube
+				Motor Tube
+				Other Rubber Tubes
+		b. PLASTIC PRODUCTS
+			Plastic/PVC Pipe
+			Plastic Components / Accessories
+			Rigid PVC
+			Plastic/LDPE/Polythene Bag
+			Plastic Films & sheets
+			Polythene/Plastic Granules
+			Plastic/ PVC Suitcases
+			Plastic Bottles
+			Plastic Cabinet
+			Dot pen with refill
+			Tooth brush
+			Plastic Containers
+			Plastic/PVC Shoes
+			Syringe
+			Polyester Film
+			Polyester Chips
+			Expandable Polystyrene
+			V Belt
+			Plastic/PVC Chappals
+			Plastic Rolls
+			Polythene/PVC Foam
+			HDPE Bag
+			HDPE Woven Sacks
+			HDPE Woven Fabric
+			Other Plastic Products
+		c. RUBBER PRODUCTS
+			Rubber Seat Assembly
+			Seamless Tubes & Pipes
+			Rubber Moulded goods
+			Rubber Foot wear
+			Synthetic rubber compound
+			Reclaimed Rubber
+			Rubber Components & Parts
+			Automobile Rubber Padding
+			Rubber Brakes
+			Rubber Transmission belt
+			Foot Ball
+			Other Rubber Products
+	(H) CHEMICALS & CHEMICAL PRODUCTS
+		a. BASIC INORGANIC CHEMICALS
+			Carbon & It's Compound
+			Acid (Inorganic)
+			Caustic Soda & Soda Ash
+			Oxygen
+			Lime & Calcium Carbonate
+			Alumina & Aluminium Salt
+			Zirconion Silicate
+			Hydrogen Peroxide
+			Titanium Dioxide
+			Zinc Oxide
+			Sodium Salt
+			Carbon Di-Sulphide
+			Ammonia (Gas / Liquid)
+			Argon Gas
+			Chlorine
+			Carbon Dioxide Gas
+			Hydrogen
+			Nitrogen (Gas / Liquid)
+			Foundry Chemical
+			Other Inorganic Chemicals
+		b. BASIC ORGANIC CHEMICALS
+			Fatty Acid
+			Acetic Acid & Its Derivetives
+			Alcohol & Mixture
+			Amines
+			Glycol
+			Fatty Alcohol
+			Naphthalene / Aniline
+			Vegetable Starch
+			Essence/Flavour used in food products.
+			Ice Block/ Cube (non edible)
+			Brine Water / Distilled Water
+			Organic Solvent
+			Formaldehyde
+			Menthol
+			Phenol or Phenol Extract
+			Acid (Organic)
+			Aromatic Chemicals
+			Leather Chemicals
+			Petrochemical Building Blocks
+			Other Organic Chemicals
+		c. FERTILIZERS & PESTICIDES
+			c1. FERTILIZERS
+				Urea
+				Ammonium Sulphate
+				Other Nitrogenous Fertilizer
+				Di Ammonium Phosphate
+				Dicalcium Phosphate
+				Other Phosphatic Fertilizers
+				Organic Manure
+				Fertilizer (Others)
+			c2. PESTICIDES
+				Endosulfan
+				Cypermethrin
+				Weedicides
+				Insecticides
+				Other Pesticides
+		d. PAINTS, VARNISHES & LACQUERS
+			Paints
+			Chemical Colours
+			Lacquer & Varnishes
+			Distemper
+			Thinner
+			Ink
+		e. DYESTUFFS & INDIGO
+			Dye & Dye Intermediates
+			Pigment & Pigment Intermediates
+		f. DRUGS & MEDICINES
+			Antibiotics
+			Vitamins
+			Vaccines
+			Paracetamol/Analgesic
+			Antacid and Digestive Preparations
+			Gelatine Capsules ( empty)
+			Ayurvedic Medicines
+			Others
+		g. PERFUMES, COSMETICS, TOILETRIES ETC
+			Toilet Soap
+			Washing Soap
+			Washing Powder
+			Floor Cleaners
+			Bleaching Powder
+			Tooth Paste / Tooth Powder
+			Hair / Body Oils
+			Perfume / Scent
+			Cream / Moisturizer
+			Face / Body Powder
+			Other Flavoured Powder
+			Shampoo
+			Wax
+			Shaving Cream
+			Hair Dye
+		h. TURPENTINE, PLASTIC CHEMICALS
+			Thermocol
+			Olio Resin & Gelatin
+			Adhesive & Gum
+			Turpentine Oil
+			Other Plastic Chemicals
+		i. POLYMERS INCLUDING SYNTHETIC RUBBER
+			Polymers
+			Synthetic Resin
+			Synthetic Rubber
+			Polymer Products
+		j. PETROCHEMICAL INTERMEDIATES
+			Non-Cyclic Compound
+			Glycol
+			Polyol
+			Sulphur & Sulphur Powder
+			Rubber Chemicals
+			Other Petrochemical Intermediates
+		k. MATCHES,EXPLOSIVES & OTHER CHEMICALS
+			Safety Matches/ Match Box
+			Explosives
+			Agarbattis
+			Photographic Goods
+			Castor Oil
+			Yeast used in Food Industry
+			Additives
+			Hardeners
+	(I ) NON-METALLIC MINERAL PRODUCTS
+		a. STRUCTURAL CLAY PRODUCTS
+			Bricks & Tiles
+			Polished Granite
+			Marbles
+			Stone (Chip/Crushed/fFnished/Slab)
+		b. GLASS,EARTHENWARE, CHINAWARE & THEIR PRODUCTS
+			Glass Bottles & Bottleware
+			Laminated Glass
+			Fibre Glass & Glass Sheet
+			Toughened Glass
+			Pressed Glassware
+			Ophthalmic Lens
+			Glass Vials
+			Non-Ferrous Sanitary fittings
+			Filter Elements
+			Porcelain Crockery
+		c. CEMENT & LIME
+			Grey Cement
+			White Cement
+			Slag Cement
+			Lime
+		d. CEMENT, SLATE & GRAPHITE PRODUCTS
+			Graphite Rods
+			Graphite Amorphous
+			Pencil
+			Asbestos Corrugated Sheet
+			Railway Sleeper
+			Concrete Poles & Posts
+			Hume Pipes & Spun Pipes
+			Other Cement Product,
+	(J) BASIC METALS, ALLOYS & METAL PRODUCTS
+		a. FERROUS METALS
+			a1. IRON & SEMIS
+				Sponge Iron
+				Pig Iron
+				Melting Scrap
+				Pencil Ingots
+				Billets
+				Slab
+			a2. STEEL: LONG
+				Rebars
+				Rounds
+				Wire Rods
+				Angles
+				Joist & Beams
+				Rails
+			a3. STEEL: FLAT
+				HRC
+				Plates
+				CRC
+				GP/GC Sheets
+			a4. STEEL: PIPES & TUBES
+				Welded Pipe
+			a5. STAINLESS STEEL & ALLOYS
+				Steel Rods
+				Sheets
+				Steel
+				Other Alloys
+			a6. CASTINGS & FORGINGS
+				Iron Castings
+				Steel Castings
+				Die Forging & Stamping
+			a7. FERRO ALLOYS
+				Ferro Chrome
+				Ferro Manganese
+				Ferro Silicon
+		b. NON-FERROUS METALS
+			b1. ALUMINIUM
+				Aluminium Ingots
+				Aluminium Coils/Rolls
+				Aluminium & Alloys
+				Aluminium Casting
+				Aluminium Seals
+				Aluminium Foil /Foil Bag
+				Aluminium Pipe & Tubes
+				Aluminium Utensils
+				Aluminium Wire
+			b2. OTHER NON-FERROUS METALS
+				Copper / Copper Ingots
+				Copper Wire (All Types)
+				Copper Products (other than wire)
+				Brass
+				Zinc
+				Lead
+				Chromium / Chrome
+				Non Ferrous Alloys
+				Non-Ferrous Casting & Forging
+		C. METAL PRODUCTS
+			Gold & Gold Ornaments
+			Silver
+			Iron & Steel Wire
+			Other Metal Wires & Wire products
+			Nuts/Bolts/Screw/ Washers
+			Cylinder
+			Cylinder Liners
+			Steel Structures
+			Steel Balls
+			Fabricated Metal Products
+			Furniture
+			Fixtures
+			Steel Frames
+			Metal Moulds and Dyes
+			Pipes/Tubes/Rods/Strips
+			Cistern Fittings/Iron& steel
+			Welding Rods
+			Metal Containers
+			Utensils(other than Aluminium)
+			Pressure Cooker
+			Chain
+			Locks
+			Safety Helmet
+			Other Metal Products
+	(K) MACHINERY & MACHINE TOOLS
+		a. AGRICULTURAL MACHINERY & IMPLEMENTS
+			Harvester
+			Sprinkler
+			Thresher
+			Separators & Driers
+			Other Agriculture Implements
+		b. INDUSTRIAL MACHINERY
+			Boiler & Accessories
+			Industrial Furnaces
+			Coupling
+			Filtration Equipment
+			Material Handling Equipments
+			Textile Machinery
+			Rubber Machinery
+			Cranes
+			Lifts
+			Oil Mill Machinery
+			Rice Mill Machinery
+			Sugar Machinery
+			Food/ Beverages/Tobacco Processing Machinery
+			Mining/Quarrying/Metallurgical Machinery/Parts.
+			Plastic Machinery
+			Fasteners
+			Ball/Roller Bearing
+			Pump & Assembly
+			Drive Equipment
+			Heat Exchanger
+			Hydraulic Equipment
+			Pneumatic Tools
+			Industrial Valves
+			Chemical Plant Equipments
+			Other Industrial Machinery
+		c. CONSTRUCTION MACHINERY
+			Loader
+			Concrete Vibrator & Mixture
+			Other Construction Machinery / Equipment
+		d. MACHINE TOOLS
+			Drilling Machines
+			Lathes
+			Grinding Wheels
+			Cutting Machine
+			Gear Cutting Machines
+		e. AIR CONDITIONER & REFRIGERATORS
+			Air Conditioners
+			Refrigerators
+			Chillers
+		f. NON-ELECTRICAL MACHINERY
+			Engines
+			Earth Moving Machinery
+			Compressors
+			Meters / Starter (non-electrical)
+			Watches
+			Weighing Scales
+			Sewing Machines
+			Solar Power System & Windmill
+			Other Non Electrical Machinery
+		g. ELECTRICAL MACHINERY, EQUIPMENT & BATTERIES
+			Electrical Pumps
+			Transformer
+			Electric Motors
+			Power Supply (DC)
+			Electric Switch Gears
+			Relay /Contacter
+			Electric Connectors / Plugs /Sockets/Holders
+			Electrolytic Condensers
+			Electric Switches
+			Converter / Inverter
+			Electric Generators
+			Electric Motor Starters
+			Control equipments
+			Regulators
+			Distribution Boards
+			Other Electric Meter
+			Electrical Stamping Lamination
+			Electrical Signaling Equipment
+			Batteries
+			Battery Dry cells
+			Battery Charger
+			Other Electric Machinery & Equipments
+		h. ELECTRICAL ACCESSORIES, WIRES, CABLES ETC.
+			Conductor
+			Insulators
+			Lamps
+			Magnets
+			Fluorescent Tubes
+			Air Break Switches/Circuit Breaker
+			PVC Insulated Cable
+			Kit-Kat /Fuse / Fuse wire
+			Electrical Wires
+			Heating Elements
+			Other Electric Accessories
+		i. ELECTRICAL APPARATUS & APPLIANCES
+			Washing / Laundry Machines
+			Fans
+			Grinding /Wet Coffee Machinery
+			Flash Light/ Torch
+			UPS / Stabilizer
+			Microwave Oven
+		j. ELECTRONICS ITEMS
+			T.V.Sets
+			T.V. Accessories
+			Sensors
+			Optical Instruments
+			Video CD Player
+			Resistance /Resistor
+			Semiconductor Devices
+			Capacitors
+			Electronic PCB /Micro Circuit
+			Amplifier
+			Computer Power Supply System (SMPS)
+			Fibre Optic Cable
+			Other Electronics Items
+		k. IT HARDWARE
+			Computers
+			Computer Peripherals
+		l. COMMUNICATION EQUIPMENTS
+			Telecommunication Exchange
+			Dish Antenna
+			Other Communication Equipments
+	(L) TRANSPORT, EQUIPMENT & PARTS
+		a. AUTOMOTIVES
+			Motor Vehicles
+			Tractors
+			Bus / Mini bus / Truck
+			Auto Rickshaw / Tempo / Matador
+			Motor Cycle / Scooter / Moped
+			Trolleys / Tanker
+		b. AUTO PARTS
+			Gear Boxes & Parts
+			Steering Gears
+			Carburetors
+			Clutch & Clutch Plates
+			Crankshafts
+			Suspension
+			Axle
+			Wheels & Parts
+			Fuel Injection Equipments
+			Silencer & Damper
+			Wiper/Blade/Arm etc
+			Piston & Compressor
+			Coil Assembly (Ignition)
+			Slider
+			Engine Assembly & Chassis
+			Gauges
+			Geared Motor
+			Radiator & Coolers
+			Electric Magnet Brakes
+			Lamp
+			Horn
+		c. OTHER TRANSPORT EQUIPMENTS
+			Railway Brake Gear
+			Railway Axle & wheel
+			Other Rail Equipments
+			Bi-Cycles
+			Parts of Ships/Boats etc.
+			Shafts (All Kinds)
