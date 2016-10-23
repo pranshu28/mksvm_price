@@ -65,20 +65,23 @@ x_test = x_gdp[-3:,:]
 y_comm = pd.read_csv("Cleaned_prices.csv",header=None).as_matrix()
 y_train = y_comm[:-3,:]
 y_act = y_comm[-3:,:]
-kernels = [lin(),poly(),poly(3),rbf(),sig()]
+kernels = [lin(),lin(2),poly(),poly(3),poly(4),rbf(),rbf(1.5),sig(),sig(1.5)]
 multi_kernels = [mult for mult in itertools.combinations(kernels, 2)]
 
 # x=np.matrix([[1,2],[2,4],[3,6],[4,8],[5,10]])
 # y=np.matrix([[2],[4],[6],[8],[10]])
 
 #Run for each pair of kernel
-for i in range(2):#y_train.shape[1]):
-	print "Error (past 3 years) in Price of commodity ",i+1
-	for k_list in multi_kernels:
+for k_list in multi_kernels:
+	errors=[]
+	for i in range(y_train.shape[1]):
 		y=[[t] for t in y_train[:,i]]
 		kernel=multi_kernel_maker(x_train,y,k_list)
-		svr=SVR(C=1.0,kernel=kernel)
+		svr=SVR(C=1.5,kernel=kernel)
 		c=svr.fit(x_train,np.squeeze(y))
 		y_test=svr.predict(x_test)
 		error = y_act[:,i]-y_test
-		print "	  				",error,np.std(error)
+		std_error = np.std(error)
+		errors.append(std_error)
+		#print "			Commodity ",i+1,error,std_error
+	print np.std(errors),k_list
