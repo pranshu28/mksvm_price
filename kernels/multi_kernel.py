@@ -81,4 +81,4 @@ for i in range(2):#y_train.shape[1]):
 		c=svr.fit(x_train,np.squeeze(y))
 		y_test=svr.predict(x_test)
 		error = y_act[:,i]-y_test
-		print "	  		",error,np.std(error)
+		print "	  				",error,np.std(error)
