@@ -1,4 +1,3 @@
-
 from sklearn.svm import SVR
 import numpy as np
 import pandas as pd
@@ -72,16 +71,18 @@ multi_kernels = [mult for mult in itertools.combinations(kernels, 2)]
 # y=np.matrix([[2],[4],[6],[8],[10]])
 
 #Run for each pair of kernel
+costs = []
 for k_list in multi_kernels:
-	errors=[]
+	kernel_errors=[]
 	for i in range(y_train.shape[1]):
 		y=[[t] for t in y_train[:,i]]
 		kernel=multi_kernel_maker(x_train,y,k_list)
 		svr=SVR(C=1.5,kernel=kernel)
 		c=svr.fit(x_train,np.squeeze(y))
 		y_test=svr.predict(x_test)
-		error = y_act[:,i]-y_test
-		std_error = np.std(error)
-		errors.append(std_error)
+		error = abs(y_act[:,i]-y_test)
+		mean_error = np.mean(error)
+		kernel_errors.append(mean_error)
 		#print "			Commodity ",i+1,error,std_error
-	print np.std(errors),k_list
+	costs.append([np.mean(kernel_errors),k_list])
+pd.DataFrame(costs).to_csv('Errors.csv', sep=',')
