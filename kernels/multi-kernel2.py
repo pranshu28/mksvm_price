@@ -45,7 +45,11 @@ def A(kernel_mat1,kernel_mat2):
 
 def beta_finder(x,y,kernel_list):
 	y=np.matrix(y)
-	yyT=(y.transpose()).dot(y)
+	yy=y.transpose()
+	yyT=(yy).dot(y)
+	if yyT.shape[0]==1:
+		del yyT
+		yyT=y.dot(yy)
 	# print(yyT.shape)
 	deno=sum([A(kernel_matrix(x,kernel),yyT) for kernel in kernel_list])
 	betas=[A(kernel_matrix(x,kernel),yyT)/deno for kernel in kernel_list]
@@ -73,9 +77,13 @@ x_test = x_gdp[-3:,:]
 for comm in range(comms):
 	y_train = y_comm[:-3,comm]
 	y_act = y_comm[-3:,comm]
-	kernels = [lin(),lin(2),poly(),poly(3),poly(4),rbf(),rbf(1.5),sig(),sig(1.5),rbf(2.0),sig()]
-	multi_kernels = [mult for mult in itertools.combinations(kernels, 3)]
-
+	kernels = [lin(),lin(2),poly(),poly(3),poly(4),rbf(),rbf(1.5),sig(),sig(1.5),sig(0.5),rbf(2),sig(1)]
+	multi_kernels=[]
+	# multi_kernels.extend([mult for mult in itertools.combinations(kernels, 4)])
+	multi_kernels.extend([mult for mult in itertools.combinations(kernels, 3)])
+	multi_kernels.extend([mult for mult in itertools.combinations(kernels, 2)])
+	multi_kernels.extend([mult for mult in itertools.combinations(kernels, 1)])
+	# x=np.matrix([[1,2],[2,4],[3,6],[4,8],[5,10]])
 	# x=np.matrix([[1,2],[2,4],[3,6],[4,8],[5,10]])
 	# y=np.matrix([[2],[4],[6],[8],[10]])
 
